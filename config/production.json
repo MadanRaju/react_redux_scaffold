@@ -1,0 +1,6 @@
+{
+    "api": {
+        "baseUrl": "http://production:3030"
+    },
+    "env": "PROD"
+}

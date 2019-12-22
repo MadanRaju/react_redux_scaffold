@@ -1,0 +1,24 @@
+@media only screen and (min-device-width: 768px) {
+  .loginPage {
+    background-image:linear-gradient(
+      #ffd4cf94, #DEF2EC
+    );
+    min-height: 870px;
+    display: flex;
+    align-items: center;
+    .loginContainer {
+      background: #fff;
+      margin: 200px auto;
+      width: 600px;
+      padding: 50px;
+      display: flex;
+      flex-direction: column;
+      .formElement {
+        margin: 10px 0 0 0;
+      }
+      .forgotPassword {
+        text-align: right;
+      }
+    }
+  }
+}

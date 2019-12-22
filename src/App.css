@@ -1,0 +1,12 @@
+@import '~antd/dist/antd.css';
+.navigationHeader {
+	display: flex;
+	flex-direction: row;
+    justify-content: center;
+} 
+.navigationItem {
+  border: 1px dashed gray;
+  padding: 5px 5px;
+  margin: 5px;
+  text-align: center;
+}
